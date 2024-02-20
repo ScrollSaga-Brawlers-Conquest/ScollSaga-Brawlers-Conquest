@@ -418,3 +418,11 @@ Received Import Request.
 Start importing Assets/Game Layout/Hero Knight - Pixel Art/Demo/SlideDust.prefab using Guid(8b8c8cc6774fb074cb9139cc631b108e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa74eb8c08297161853d807a2356dee') in 0.007185 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 70.891575 seconds.
+  path: Assets/Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(09009a3fcecc64d4b8aaa1e564839c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes/SampleScene.unity using Guid(09009a3fcecc64d4b8aaa1e564839c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180555722bb727151cc28b83e73fde11') in 0.001914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
